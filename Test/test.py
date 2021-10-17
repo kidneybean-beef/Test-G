@@ -25,5 +25,3 @@ while (i <= n_values):
 plt.plot(x)
 plt.show()
 
-
-# %%
