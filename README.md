@@ -1,0 +1,3 @@
+# Test-G
+Learning how to use Github...
+This catalogue is to test the usage of Github for newbie (me).
